@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient( #ffbf00 0%, #ff5500 100% );
+    text-align: center;
+}
+.menu{
+    background-color: chocolate;
+    font-size: 20;
+    text-align: center;
+    
+}
+img{
+    border-radius: 300px;
+    height: 230px;
+    width: 200px;
+}
+p{
+    background-color: coral;
+    color: fuchsia;
+    font-size: 30;
+}
+p:hover{
+    background-color: coral;
+    font-size: 50px;
+}
+.menu:hover{
+    background-color: coral;
+    font-size: 25px;
+    text-decoration: underline;
+}
+#Myname{
+    font-family: monospace;
+    font-size: 25;
+}
